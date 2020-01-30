@@ -1,5 +1,5 @@
 # Encrypted-Clipboard-Manager
-Group Project: An Encrypted Clipboard Manager made to Computer Security
+Group Project: An Encrypted Clipboard Manager made to Computer Security 
 
 ## Objective
 
